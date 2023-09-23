@@ -1,0 +1,215 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+body{
+    background-color: #252430;
+    padding: 0 2px 0 2px;
+}
+
+header{
+    width: 100%;
+    height: 90px;
+}
+
+nav{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+button{
+    cursor: pointer;
+}
+
+#btlupa{
+    width: 30px;
+    height: 30px;
+    border: none;
+    background-color: transparent;
+}
+
+#lupa{
+    width: 30px;
+    height: 30px;
+}
+
+#text{
+    width: 80%;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: #555555;
+}
+
+#sec1{
+    width: 100%;
+    height: 100px;
+}
+
+h1{
+    font-size: 30px;
+    float: left;
+}
+
+#pfp{
+    width: 30px;
+    height: 30px;
+    float: right;
+    border-radius: 100%;
+    background-color: #ffffff;
+}
+
+#sec2{
+    width: 100%;
+    height: 150px;
+}
+
+#s2-div1{
+    padding-bottom: 0;
+}
+
+#cauan{
+    width: 150px;
+    height: 150px;
+    float: left;
+    border-radius: 10px;
+}
+
+#dyuli{
+    width: 150px;
+    height: 150px;
+    float: right;
+    border-radius: 10px;
+}
+
+#sec3{
+    width: 100%;
+    height: 20px;
+    padding: 2px 0 10px 0;
+    margin-bottom: 150px;
+}
+
+#nome1{
+    font-size: 20px;
+    margin-left: 10px;
+    float: left;
+}
+
+#nome2{
+    font-size: 20px;
+    margin-right: 10px;
+    float: right;
+}
+
+#sec4{
+    width: 99%;
+    height: auto;
+    margin: auto;
+    padding: 2px;
+    border-radius: 10px;
+    background-color: #302f3c;
+}
+
+#s4-div1{
+    width: auto;
+    height: 50px;
+    padding: 2px;
+}
+
+#kenne{
+    width: 50px;
+    height: 50px;
+    float: left;
+    border-radius: 100%;
+}
+
+#s4d1-div1{
+    float: left;
+    margin-left: 8px;
+}
+
+#s4-div2{
+    width: auto;
+    height: 150px;
+}
+
+#peri{
+    width: 150px;
+    height: 150px;
+    float: left;
+    border-radius: 10px;
+}
+
+#colagem{
+    width: 150px;
+    height: 150px;
+    float: right;
+    border-radius: 10px;
+}
+
+a{
+    color: #ff8c00;
+}
+
+footer{
+    width: 100%;
+    height: 60px;
+    padding-top: 20px;
+    text-align: center;
+    background-color: #1b1a22;
+}
+
+#bthome{
+    border: none;
+    background-color: transparent;
+}
+
+#btstreams{
+    border: none;
+    background-color: transparent;
+}
+
+#btmessages{
+    border: none;
+    background-color: transparent;
+}
+
+#btnotifications{
+    border: none;
+    background-color: transparent;
+}
+
+#btprofiles{
+    border: none;
+    background-color: transparent;
+}
+
+#home{
+    width: 30px;
+    height: 30px;
+}
+
+#stream{
+    width: 30px;
+    height: 30px;
+}
+
+#messages{
+    width: 30px;
+    height: 30px;
+}
+
+#notifications{
+    width: 30px;
+    height: 30px;
+}
+
+#profiles{
+    width: 30px;
+    height: 30px;
+}
